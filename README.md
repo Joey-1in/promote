@@ -1,4 +1,6 @@
-# promote
+# Promote
 高并发活动秒杀系统
-# Go version 1.14.4 初始化项目 mod管理包
-go 1.14.4 初始化项目 mod管理包
+# Go version 
+1.14.4 
+#包管理
+go mod init promote 初始化项目 mod管理包
